@@ -18,15 +18,15 @@ Por exemplo para uma seqüência de números "6, 9, 15, -2, 92, 11", temos como 
 
 Traduzido de: http://www.cyber-dojo.com/
 
-Data:
+#### Data:
 
-**31/01/2015**
+31/01/2015
 
-Linguagem:
+#### Linguagem:
 
-**Ruby**
+Ruby
 
-Participantes:
+#### Participantes:
 
 * Gabriel Pereira
 * Jose Honjoya
