@@ -26,6 +26,10 @@ Traduzido de: http://www.cyber-dojo.com/
 
 Ruby
 
+#### Teste:
+
+RSpec
+
 #### Participantes:
 
 * Gabriel Pereira
