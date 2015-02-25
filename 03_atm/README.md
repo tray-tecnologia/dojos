@@ -38,9 +38,9 @@ RSpec
 
 * Não terminou o problema
 * Pulando Etapas
-** TDD
-** Baby Steps
-** Interrupção
+  * TDD
+  * Baby Steps
+  * Interrupção
 
 
 Participantes:
