@@ -61,7 +61,7 @@ RSpec
 * Não resolveu o problema
 * Teclado / Editor
 
-Participantes:
+##### Participantes:
 
 * Rafael Takashi
 * Anderson Kumagai
