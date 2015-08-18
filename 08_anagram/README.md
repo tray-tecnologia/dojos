@@ -23,6 +23,12 @@ Javascript
 
 Jasmine e Karma
 
+#### Dependências
+
+    $ cd 08_anagram
+    $ sudo npm install
+    $ sudo npm install -g karma-cli
+
 #### Participantes:
 
 * Gabriel Pereira
