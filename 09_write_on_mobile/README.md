@@ -6,7 +6,7 @@ Um dos serviços mais utilizados pelos usuários de aparelhos celulares são os 
 Para digitar uma mensagem em um aparelho que não possui um teclado QWERTY embutido é necessário fazer algumas combinações das 10 teclas numéricas do aparelho para conseguir digitar. Cada número é associado a um conjunto de letras como a seguir:
 
     Letras ->  Número
-    
+
     ABC    ->  2
     DEF    ->  3
     GHI    ->  4
@@ -41,6 +41,7 @@ RSpec
 * Danilo Deverso
 * Bruno Alcantara
 * Alexandre Gloneki
+* Gabriel Pereira
 
 #### Retrospectiva:
 
@@ -54,4 +55,3 @@ RSpec
 * Qtde de Participantes
 * Pouco Tempo
 * 'Enter' => Autocomplete
-
