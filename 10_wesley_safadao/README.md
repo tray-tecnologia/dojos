@@ -7,8 +7,8 @@ porcentagem de anjo e a porcentagem de safado de uma pessoa que nasceu na data d
 
 Os cálculos obedecem a seguinte fórmula:
 
-safadeza = somatorio(mes) + (ano / 100) * (50 - dia)
-anjo = 100 - safadeza
+    safadeza = somatorio(mes) + (ano / 100) * (50 - dia)
+    anjo = 100 - safadeza
 
 A sua função retorna a '%' de safadeza e a '%' de anjo da pessoa nascida naquela data.
 
