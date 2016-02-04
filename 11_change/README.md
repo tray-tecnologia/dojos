@@ -8,8 +8,8 @@ Seu desafio é fazer um programa que leia o valor total a ser pago e o valor efe
 
 Deve-se considerar que há:
 
-   cédulas de R$100,00, R$50,00, R$10,00, R$5,00 e R$1,00;
-   moedas de R$0,50, R$0,10, R$0,05 e R$0,01.
+      cédulas de R$100,00, R$50,00, R$10,00, R$5,00 e R$1,00;
+      moedas de R$0,50, R$0,10, R$0,05 e R$0,01.
 
 
 #### Data:
