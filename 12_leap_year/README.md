@@ -9,6 +9,7 @@ Um determinado ano é bissexto se:
 O ano for divisível por 4, mas não divisível por 100, exceto se ele for também divisível por 400.
 
 Exemplos:
+
 São bissextos por exemplo:
     - 1600
     - 1732
