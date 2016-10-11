@@ -18,8 +18,8 @@ def quebra(phrase)
   i = 0
   a = phrase.split(' ')
   a.each do |c|
-    i+=1 unless char_count(c) + char_count(v[i]) > 20
-    v[i] = c
+     i+=1 if char_count(c) + char_count(v[i]) > 20
+    v[i] = "#{v[i]} #{c}"
   end
   v
 end
