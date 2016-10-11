@@ -19,7 +19,6 @@ RSpec.describe 'QuebraLinha' do
 
   it 'break' do
     response = quebra("Um pequeno jabuti xereta viu dez cegonhas felizes.")
-    p response
-    # expect(response).to eq(8)
+    expect(response).to eq([" Um pequeno jabuti", " xereta viu dez", " cegonhas felizes."])
   end
 end
